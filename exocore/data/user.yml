@@ -11,15 +11,15 @@ profile_link: /
 
 
 # The user image displayed on your profile card. You can edit this by dropping an image with the name 'pfp.png' into 'assets/imgs', or editing the path below:
-profile_pic: assets\imgs\281520.jpg
+profile_pic: assets\imgs\dove.jpg
 
 
 # The header that will be displayed on your homepage:
-welcome_header: Welcome to NeoTokio
+welcome_header: neoTokio
 
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: Thanks for Checking Out My Site!
+welcome_subtitle: Thanks For Visiting My Site!
 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
