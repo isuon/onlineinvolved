@@ -11,8 +11,10 @@
             "id": "ad3b63ff6da5787c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf"
+              }
             }
           },
           {
@@ -137,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e509f202f4abd033",
+  "active": "ad3b63ff6da5787c",
   "lastOpenFiles": [
-    "_daily/2022-05-11.md",
+    "library/Against Intellectual Property_2.pdf",
     "_daily/2022-11-29.md",
+    "_daily/2022-05-11.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md"
+    "assets/imgs/bg-yotsuba.gif"
   ]
 }
