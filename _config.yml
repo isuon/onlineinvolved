@@ -71,7 +71,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/imgs/card.png
+      image: /assets/imgs/logo.png
   - scope:
       path: ""
       type: "articles"
