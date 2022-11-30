@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
+title: dreamcity.neoTokio
 description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+url: https://neotokio.netlify.app
+repository: isuon/onlineinvolved
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
