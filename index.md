@@ -3,37 +3,9 @@ layout: home
 title: home
 ---
 
-# The Exocore Package
-
-[![](/images/exocore.png)](/articles/exocore%20installation%20instructions/)
-
-## Executive Summary
-
-# Breaking down the Exocore
+# dreamcity@neoTokio
 
 ![study-monk](/images/study-monk.png)
-
-
-## Full Tech Stack
-
-- [Obsidian](https://obsidian.md) / [VS Code](https://code.visualstudio.com) (and plugin package)
-- [Git](https://git-scm.com) (for syncing)
-- [Jekyll](https://jekyllrb.com) (for publishing)
-
-**Obsidian Plugins:**
-- Backlinks
-- Daily Notes
-- Templates
-- [Obsidian Git](https://github.com/denolehov/obsidian-git)
-- [Templater](https://github.com/SilentVoid13/Templater)
-- [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
-
-**VSCode Plugins:**
-- [Foam](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
-- [Netlify](https://marketplace.visualstudio.com/items?itemName=shailen.netlify)
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
-- [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
 
 
 
