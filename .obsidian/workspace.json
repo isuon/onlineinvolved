@@ -11,9 +11,11 @@
             "id": "ad3b63ff6da5787c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf"
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 461.5
   },
   "right": {
     "id": "fa5c2b51a2ba60c1",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf"
+                "file": "index.md"
               }
             }
           },
@@ -145,15 +147,15 @@
   },
   "active": "ad3b63ff6da5787c",
   "lastOpenFiles": [
-    "library/Against Intellectual Property_2.pdf",
-    "_daily/2022-11-29.md",
-    "_daily/2022-05-11.md",
-    "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif"
+    "readme.md",
+    "assets/attachments/Screen Shot 2022-09-19 at 7.06.31 PM.png",
+    "assets/attachments/Screen Shot 2022-10-24 at 3.36.00 am.png",
+    "assets/attachments/Pasted image 20220905145417.png",
+    "assets/attachments/Pasted image 20220905145302 1.png",
+    "assets/attachments/Pasted image 20220905145302.png",
+    "assets/attachments/Pasted image 20220905145243.png",
+    "assets/favicon/apple-touch-icon.png",
+    "assets/favicon/android-chrome-512x512.png",
+    "assets/favicon/android-chrome-192x192.png"
   ]
 }
