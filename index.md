@@ -3,8 +3,6 @@ layout: home
 title: home
 ---
 
-# dreamcity@neoTokio
-
 ![study-monk](/images/study-monk.png)
 
 
