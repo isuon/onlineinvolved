@@ -2,7 +2,6 @@
 layout: home
 title: home
 ---
-{% include embed-audio.html src="/assets/audio/11.mp3" %}
 
 ![study-monk](/images/study-monk.png)
 
