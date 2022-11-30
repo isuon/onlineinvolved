@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "ae495c8e5140b2da",
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
+            "id": "ad3b63ff6da5787c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "ad3b63ff6da5787c",
   "lastOpenFiles": [
+    "_daily/2022-11-29.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
@@ -156,7 +148,6 @@
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
     "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "_daily/2022-10-23.md"
   ]
 }
