@@ -19,9 +19,10 @@ layout: default
       <div class = "subtitle">
 
         <h2 class="subtitle-text">{{ site.data.user.welcome_subtitle }}</h2>
-        {% include embed-audio.html src="/assets/audio/11.mp3" %}
+        
       </div>
       
+
         {% endunless %}
         {% endfor %}
 
@@ -33,7 +34,7 @@ layout: default
         <div class="content post-content">
 
           {{ content }}
-
+          {% include embed-audio.html src="/assets/audio/11.mp3" %}
         </div>
         </div>
 
