@@ -3,8 +3,7 @@ layout: home
 title: neoTokio
 description: portal
 ---
-
-![leviathan](/images/leviathan.png)
+# welcome
 
 ![scope](/images/scope.png)
 
