@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/eventmachine/eventmachine.git
+  revision: 9cb13a8a62363df5ebcc414169a3deb2c1608528
+  tag: v1.2.7
+  specs:
+    eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -11,8 +19,9 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.15.0)
       ffi (>= 1.15.0)
-    eventmachine (1.2.7)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw32)
+    ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
     html-proofer (3.19.3)
       addressable (~> 2.3)
@@ -87,6 +96,10 @@ GEM
     nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
+    nokogiri (1.12.5-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.12.5-x64-mingw32)
+      racc (~> 1.4)
     nuggets (1.6.0)
     parallel (1.22.1)
     parser (3.1.2.0)
@@ -120,6 +133,8 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
+    sassc (2.4.0-x64-mingw32)
+      ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     typhoeus (1.4.0)
@@ -134,8 +149,11 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  x64-mingw32
+  x64-unknown
 
 DEPENDENCIES
+  eventmachine (= 1.2.7)!
   html-proofer (~> 3.0)
   jekyll (= 4.2.1)
   jekyll-default-layout
@@ -158,4 +176,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.4
+   2.3.26
