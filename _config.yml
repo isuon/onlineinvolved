@@ -4,11 +4,9 @@
 
 title: neoTokio
 description: spinning about under the bright light in bliss
-url: https://neotokio.netlify.app
+url: https://neotokio.net
 repository: isuon/onlineinvolved
 
-twitter:
-  image: /assets/imgs/isocore.png
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
 ##############################################
@@ -139,7 +137,7 @@ graphviz:
 # Configure your network graph:
 
 graph:
-  enabled: true
+  enabled: false
   exclude: []
   path:
     assets: "/assets"
@@ -179,4 +177,4 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-wikilinks
-- jekyll-graph
+#- jekyll-graph
